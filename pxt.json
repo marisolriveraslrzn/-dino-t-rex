@@ -1,0 +1,32 @@
+{
+    "name": " Dino T-Rex",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.15.17",
+        "tag": "v0.15.17",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/1f3914fbbaf5b5d37356e3973b7845374d264298",
+        "target": "2.0.56",
+        "pxt": "5.30.43",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}

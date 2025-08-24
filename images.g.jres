@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQYABgAAAAAAAAA8P//DwAAAAAAAAAAAPD//wAAAAAAAAAAAAD//w8AAAAAAAAAAADw//8AAAAAAAAAAADw//8PAAAAAAAAAAD/////AAAAAAAAAPD//////w8AAAAAAP//////Dw8AAAAA8P//////AAAA8P////////8PAAAA////////////AAAA//H//////////w8A//////////8AAA8A/////////w8AAAAA////////DwAAAAAA////D/AAAAAAAAAA////D/APAAAAAAAA//8PDwAAAAAAAAAA//8PDwAAAAAAAAAA//8PDwAAAAAAAAAA//8PAAAAAAAAAAAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tRex"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA////DwAAAPD/////AAAA8P////8PAAAA//////8AAAAAAPD//wAA//////////D/////////8P////////8A/////////wAAAAAAAP8PAAAAAAAA/w8AAPD/////AAAA/////w8AAADw////AAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cactus"
+    },
+    "image3": {
+        "data": "hwQYABAAAAAAAA8AAAAAAADwDwAAAAAAAP8PAAAAAADw/w8AAAAAAP//DwAAAAAA//8PAAAAAAAA//8AAAAAAAAA/w8AAAAAAAD//////w8AAP//////AAAA/////wAAAAD///8PAAAAAP///wAAAAAA////AAAAAAD///8AAAAAAPD//wAAAAAAAP//AAAAAAAA//8AAAAAAAD//wAAAAAAAP8PAAAAAAAADw8AAAAAAAAPDwAAAAAAAA8PAAAAAAAADwAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fly"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
